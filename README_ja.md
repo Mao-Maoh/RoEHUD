@@ -2,7 +2,8 @@
 
 [English](README.md) | [日本語](README_ja.md)
 
-RoEHUDは、FINAL FANTASY XI用の非公式Windower 4アドオンです。エミネンス・
+RoEHUDは、FINAL FANTASY XI用の非公式Windower 4アドオンです。  
+エミネンス・
 レコードの目標、詳細情報、現在のエリア・ジョブ・曜日・天候などに応じた
 オススメをコンパクトなHUDに表示します。
 
