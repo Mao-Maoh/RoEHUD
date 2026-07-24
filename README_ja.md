@@ -5,6 +5,10 @@
 RoEHUDは、FINAL FANTASY XI用の非公式Windower 4アドオンです。エミネンス・
 レコードの目標、詳細情報、現在のエリア・ジョブ・曜日・天候などに応じた
 オススメをコンパクトなHUDに表示します。
+本アドオンは現在開発段階にあるため、UIの視認性やデータベースの網羅性において不十分な箇所がございます。
+
+<img width="932" height="278" alt="スクリーンショット 2026-07-24 234610" src="https://github.com/user-attachments/assets/baabab80-e72c-4f32-8a15-123c1ee89ef1" />
+<img width="485" height="465" alt="スクリーンショット 2026-07-24 234735" src="https://github.com/user-attachments/assets/a344a40a-2305-466a-9589-0f93795d9394" />
 
 ## インストール
 
