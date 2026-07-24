@@ -6,8 +6,8 @@ RoEHUD is an unofficial Windower 4 addon for FINAL FANTASY XI. It provides a
 compact Records of Eminence HUD, objective details, and recommendations based
 on conditions such as your current zone, jobs, day, and weather.
 
-<img width="485" height="465" alt="スクリーンショット 2026-07-24 234735" src="https://github.com/user-attachments/assets/7518cbb1-cb94-4882-9fc7-d9cbd12a2149" />
 <img width="932" height="278" alt="スクリーンショット 2026-07-24 234610" src="https://github.com/user-attachments/assets/2cf05951-5445-4af7-94d9-b88d2c2af54f" />
+<img width="485" height="465" alt="スクリーンショット 2026-07-24 234735" src="https://github.com/user-attachments/assets/7518cbb1-cb94-4882-9fc7-d9cbd12a2149" />
 
 ## Installation
 
