@@ -144,8 +144,8 @@ function main_hud.update()
         if setup_unselected then
             lines = {
                 '\\cs(255,230,150)[Objective List / 目標リスト]\\cr',
-                'This HUD displays up to 30 active objectives.',
-                '受領中の目標が最大30件表示されます。',
+                'This HUD displays up to 31 active objectives.',
+                '受領中の目標が最大31件表示されます。',
                 '\\cs(255,230,150)Physical Damage / 物理ダメージ\\cr',
                 '\\cs(180,240,255)8 / 20\\cr',
                 '\\cs(255,230,150)Spoils (Rabbit Hide) / 戦利品（野兎の毛皮）\\cr',
@@ -156,7 +156,7 @@ function main_hud.update()
         elseif lang == 'ja' then
             lines = {
                 '\\cs(255,230,150)[目標リスト]\\cr',
-                '受領中の目標が最大30件表示されます。',
+                '受領中の目標が最大31件表示されます。',
                 '\\cs(255,230,150)物理ダメージ\\cr',
                 '\\cs(180,240,255)8 / 20\\cr',
                 '\\cs(255,230,150)戦利品（野兎の毛皮）\\cr',
@@ -167,7 +167,7 @@ function main_hud.update()
         else
             lines = {
                 '\\cs(255,230,150)[Objective List]\\cr',
-                'This HUD displays up to 30 active objectives.',
+                'This HUD displays up to 31 active objectives.',
                 '\\cs(255,230,150)Physical Damage\\cr',
                 '\\cs(180,240,255)8 / 20\\cr',
                 '\\cs(255,230,150)Spoils (Rabbit Hide)\\cr',
